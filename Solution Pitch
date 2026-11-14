@@ -1,0 +1,45 @@
+Dear Past Me
+Your memories. Your words. Your answers.
+
+Solution Pitch
+
+The Problem
+
+We capture countless moments, thoughts, ideas, and personal experiences, but rarely revisit them when they matter. Traditional journaling helps us record memories, but finding a specific thought or recalling what we once wrote can be difficult. Existing AI assistants can generate answers, but they may also create memories or details that never actually happened.
+
+The Solution
+
+Dear Past Me is a private, voice-first journal that helps people preserve their thoughts and rediscover them through natural-language conversations.
+
+Users can write or dictate journal entries, ask questions about their past experiences, and retrieve relevant passages directly from their saved memories. Every answer is grounded in actual journal entries, with dates and source references. If the information does not exist, the application clearly says so instead of making something up.
+
+Users can also leave scheduled notes for their future selves, turning journaling into an ongoing conversation between their present and future selves.
+
+Powered by Gnani AI
+
+Dear Past Me integrates Gnani AI's voice technology to make journaling more natural and accessible:
+
+STT v3: Converts spoken thoughts into journal entries.
+Timbre TTS v2.5: Reads retrieved journal excerpts aloud.
+Multilingual accessibility: Supports voice recording and playback in 10 languages: English, Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali, Gujarati, and Punjabi.
+What Makes It Different?
+
+The core principle is simple: AI should help people find their memories, not invent them.
+
+Unlike general-purpose AI assistants that generate responses from broad knowledge, Dear Past Me retrieves information from the user's own journal. It prioritizes authenticity, traceability, and personal privacy.
+
+Privacy by Design
+
+Journal entries and future notes are stored locally in the browser rather than uploaded to a cloud database. Audio is processed by Gnani AI only when transcription or spoken playback is requested. API credentials remain protected on the server.
+
+Vision
+
+The vision is to make personal memories searchable, accessible, and meaningful. Dear Past Me aims to turn journaling from a habit of simply recording the past into an experience of actively reconnecting with it.
+
+Live Demo: https://past-me-production.up.railway.app
+
+Mobile Demo: https://youtube.com/shorts/mrRJan_1Has?feature=share
+
+Desktop Preview: https://youtu.be/k3xM2XyY5jI
+
+Built for the Great Indian AI Internship Challenge using Gnani AI technology.
